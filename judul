@@ -1,0 +1,2 @@
+st.title("🎉 Selamat Ulang Tahun!")
+st.write("Halo! Ini adalah aplikasi ucapan ulang tahun sederhana menggunakan Streamlit.")
